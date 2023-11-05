@@ -39,7 +39,7 @@
         setTimeout(autoTimeout, 30000)
     }
 
-    // autoTimeout() // TODO Enable
+    autoTimeout()
 </script>
 
 
